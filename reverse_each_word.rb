@@ -7,4 +7,4 @@ def reverses_each_word(words)
   
 end
 
-around_filterreverses_each_word("Hello my name is Andy")
+reverses_each_word("Hello my name is Andy")
