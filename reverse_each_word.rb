@@ -1,4 +1,5 @@
 
 def reverses_each_word(words)
-  ducky = words.split
+  array = words.split
+  array.each {|word|
   
