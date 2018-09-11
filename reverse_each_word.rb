@@ -4,4 +4,5 @@ def reverses_each_word(words)
   array = words.split(' ')
   array.each {|word| word.reverse << new_array}
   new_array.join(" ")
+  
 end
